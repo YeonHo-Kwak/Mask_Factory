@@ -1,4 +1,4 @@
-# miniProject_01
+# Mask_Factory
 
 프로젝트명 : 마스크 제조 관리 시스템
 
